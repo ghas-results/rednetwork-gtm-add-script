@@ -1,5 +1,5 @@
 homepage: "https://redventures.com.br/",
 documentation: "https://redventures.com.br/",
 versions:
-  - sha: 
+  - sha: cb79482475b88b5c19b4549e21acefe6bf1fcbb7
     changeNotes: Initial release
