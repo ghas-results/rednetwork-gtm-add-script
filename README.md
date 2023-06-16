@@ -5,7 +5,7 @@
   <h3 align="center">Red Network</h3>
 
   <p align="center">
-    GTM Template to add Network Tracking SDK script.
+    GTM Template to add Red Network Tracking SDK script.
   </p>
 </div>
 <br />
